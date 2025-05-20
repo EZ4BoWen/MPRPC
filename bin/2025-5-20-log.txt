@@ -1,0 +1,9 @@
+15:39:45 =>[info] service_name:UserServiceRpc
+15:39:45 =>[info] method_name:Login
+15:39:45 =>[info] method_name:Register
+15:48:55 =>[info] service_name:UserServiceRpc
+15:48:55 =>[info] method_name:Login
+15:48:55 =>[info] method_name:Register
+15:58:4 =>[info] service_name:UserServiceRpc
+15:58:4 =>[info] method_name:Login
+15:58:4 =>[info] method_name:Register
